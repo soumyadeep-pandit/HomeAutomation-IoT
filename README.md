@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # **🚀 ESP8266 + Blynk IoT Project**  
 **Easily connect your ESP8266 module to the Blynk IoT platform for real-time monitoring and remote control over Wi-Fi.**  
 
@@ -70,4 +67,3 @@ char auth[] = "Your_Blynk_Auth_Token";
 💡 **Need Help?** Feel free to ask in the **Blynk Community** or check the **official documentation**!  
 
 🚀 **Happy Building!** 🛠✨  
->>>>>>> a4cdbff (Updated README with better formatting and details)
